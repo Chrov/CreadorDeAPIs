@@ -1,2 +1,2 @@
-.env.DB_CONECTION
+*.env
 node_modules
